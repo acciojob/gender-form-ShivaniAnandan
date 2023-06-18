@@ -38,7 +38,7 @@ const App = () => {
           {
           gender=="female" && (
             <div>
-            <h2>Select your dress Size:</h2>
+            <h2>Select your dress size:</h2>
             <select name="female-size" id="female-size">
               <option value="Select size" disabled>Select size</option>
               <option value="two">2</option>
